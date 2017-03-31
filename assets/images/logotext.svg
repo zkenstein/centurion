@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="400.586px" height="137.793px" viewBox="0 0 400.586 137.793" enable-background="new 0 0 400.586 137.793"
+	 xml:space="preserve">
+<defs>
+	<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="0" y="3.475" width="128.262" height="134.318">
+		
+			<feColorMatrix  type="matrix" values="-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0" color-interpolation-filters="sRGB" result="source"/>
+		<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+		<feBlend  in="source" in2="back" mode="normal"/>
+	</filter>
+</defs>
+<mask maskUnits="userSpaceOnUse" x="0" y="3.475" width="128.262" height="134.318" id="SVGID_1_">
+	<g filter="url(#Adobe_OpacityMaskFilter)">
+		<polygon opacity="0.15" fill="#FFFFFF" points="65.404,138.841 -7.346,138.841 -3.372,-2.682 65.404,-2.682 		"/>
+	</g>
+</mask>
+<g mask="url(#SVGID_1_)">
+	<defs>
+		<filter id="Adobe_OpacityMaskFilter_1_" filterUnits="userSpaceOnUse" x="0" y="57.575" width="128.262" height="80.218">
+			<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+			<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+		</filter>
+	</defs>
+	<mask maskUnits="userSpaceOnUse" x="0" y="57.575" width="128.262" height="80.218" id="SVGID_1_">
+		<g filter="url(#Adobe_OpacityMaskFilter_1_)">
+			<rect x="-6.58" y="-7.329" opacity="0.15" fill="#FFFFFF" width="70.711" height="145.091"/>
+		</g>
+	</mask>
+	<g>
+		<g>
+			<g>
+				<rect x="4.528" y="117.282" fill="#1E1D1D" width="119.205" height="8.864"/>
+				<rect y="128.255" fill="#1E1D1D" width="128.262" height="9.538"/>
+				<rect x="57.132" y="59.816" fill="#1E1D1D" width="13.999" height="44.017"/>
+				<rect x="17.458" y="59.816" fill="#1E1D1D" width="13.998" height="44.017"/>
+				<rect x="96.807" y="59.816" fill="#1E1D1D" width="13.999" height="44.017"/>
+				<rect x="14.816" y="57.65" fill="#1E1D1D" width="18.952" height="4.128"/>
+				<rect x="53.79" y="57.715" fill="#1E1D1D" width="19.97" height="4.204"/>
+				<rect x="93.158" y="57.575" fill="#1E1D1D" width="21.295" height="4.484"/>
+				<rect x="94.239" y="100.8" fill="#1E1D1D" width="19.133" height="4.027"/>
+				<rect x="54.757" y="100.839" fill="#1E1D1D" width="18.748" height="3.947"/>
+			</g>
+			<rect x="14.981" y="99.912" fill="#1E1D1D" width="18.623" height="3.921"/>
+		</g>
+	</g>
+	<g>
+		<path fill="#1E1D1D" d="M81.182,18.868c-0.327,9.138-7.833,16.446-17.051,16.446s-16.723-7.309-17.05-16.446L4.528,37.198v11.92
+			h119.205v-11.92L81.182,18.868z"/>
+		<g>
+			<path fill="#809968" d="M78.928,18.804c0.005-0.179,0.013-0.357,0.013-0.538c0-8.169-6.623-14.792-14.792-14.792
+				c-8.169,0-14.792,6.623-14.792,14.792c0,0.18,0.008,0.358,0.013,0.538l14.778-6.366L78.928,18.804z"/>
+			<path fill="#809968" d="M64.149,33.058c7.99,0,14.496-6.334,14.779-14.254l-14.779-6.366l-14.778,6.366
+				C49.654,26.724,56.16,33.058,64.149,33.058z"/>
+			<rect x="57.375" y="10.013" fill="none" width="27.51" height="19.155"/>
+			<text transform="matrix(1 0 0 1 57.375 26.2324)" fill="#455132" font-family="'TrebuchetMS'" font-size="22.0082">C</text>
+		</g>
+	</g>
+</g>
+<rect x="149.958" y="32.082" fill="none" width="184.491" height="40.838"/>
+<text transform="matrix(1 0 0 1 149.9575 65.6211)" fill="#414141" font-family="'Cambria'" font-size="48">Koperasi</text>
+<rect x="149.958" y="82.422" fill="none" width="272.237" height="68.895"/>
+<text transform="matrix(1 0 0 1 149.9575 122.9487)" fill="#414141" font-family="'Cambria'" font-size="58">Centurion</text>
+</svg>
